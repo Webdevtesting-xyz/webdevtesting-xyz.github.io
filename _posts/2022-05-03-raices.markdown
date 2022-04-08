@@ -1,0 +1,12 @@
+---
+title: Data-Lovers Happy Hour
+subtitle: Tuesday, May 3rd, 2022
+layout: default
+url: https://www.meetup.com/denver-data-storytellers/events/285103630/
+date: 2022-05-22
+img: raices.png
+thumbnail: raices.png
+alt: A photo of Raices Brewery in Denver, CO
+category: Happy Hour
+
+---
